@@ -18,7 +18,7 @@
     </div>
 </template>
   
-<script setup>
+<script setup lang="ts">
 import { PhArrowDown } from '@phosphor-icons/vue';
   
 const tabs = [

@@ -24,7 +24,7 @@
     </fieldset>
 </template>
   
-<script setup>
+<script setup lang="ts">
 import { PhTrash } from '@phosphor-icons/vue';
 const people = [
     { id: 1, name: 'Annette Black', selected: true },
